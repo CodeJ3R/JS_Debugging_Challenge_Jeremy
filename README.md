@@ -1,2 +1,1 @@
-# JS_Debugging_Challenge_Jeremy
- Debugging JS challenge
+🚀 JavaScript Debugging Challenge: Spot &amp; Fix the Errors! 🚀
