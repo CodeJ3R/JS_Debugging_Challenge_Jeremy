@@ -5,6 +5,8 @@ February 20, 2025
 Nadia Gouda
 ClientSide Programming
 
+https://github.com/CodeJ3R/JS_Debugging_Challenge_Jeremy.git
+
 */
 
 student_name = "Nadia"; // added quotations around nadia
